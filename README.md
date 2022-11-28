@@ -1,1 +1,1 @@
-# 9to5-frontend-assignment
+# web-assignment-nuxt-vue-master

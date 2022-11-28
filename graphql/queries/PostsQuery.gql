@@ -1,0 +1,8 @@
+query posts($posts: ListPostsInput!) {
+  posts(posts: $posts) {
+    date
+    featuredMedia
+    id
+    title
+  }
+}
